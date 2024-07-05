@@ -107,9 +107,6 @@ img {
 
 
 
-
-
-
 /* Navigation for mobile devices */
 @media screen and (max-width:1150px) {
   .nav__menu{
@@ -117,8 +114,8 @@ img {
     top: 0;
     right: -100%;
     background-color: hsla(0, 0%, 100%, .1);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(24px);
+    -webkit-backdrop-filter: blur(24px);
     width: 80%;
     height: 100%;
     padding: 6rem 3rem 0;
@@ -148,7 +145,10 @@ img {
 }
 
 /* Show menu */
+.show-menu{
+  right: 0;
 
+}
 
 /*=============== HOME ===============*/
 
