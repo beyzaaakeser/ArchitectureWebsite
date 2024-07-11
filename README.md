@@ -1,4 +1,4 @@
-<h1>Home Decoration Website</h1>
+<h1>Architecture Home Promotion Website</h1>
 
 The architecture, home promotion website I prepared with HTML5, CSS3, Javascript, Swiper and RemixIcons stands out with its minimalist and stylish design. This site was built using a fully responsive design to maximize user experience on every device. It works seamlessly on desktop, tablet or mobile devices.
 
